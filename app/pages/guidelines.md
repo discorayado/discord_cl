@@ -33,7 +33,7 @@ Dicho esto, vamos a los lineamientos de la comunidad.
 **Lo siguiente no es tolerado. Eliminaremos cualquier contenido y enviaremos una advertencia.
 Conductas repetitivas y casos de extrema gravedad resultarán en la eliminación de la cuenta**:
 
-* Organizar y participar en raids o cualquier otra forma de hostigamiento.
+* Organizar y participar en redadas (raids) o cualquier otra forma de hostigamiento.
 No participes o postees contenido que inste al acoso de individuos o comunidades.
 Si alguien te está hostigando a ti o a tu comunidad, se proactivo y bloquéales de
 forma inmediata.
@@ -73,10 +73,10 @@ contenido y eliminación de cuenta de forma inmediata:**
 
 * Compartir contenido directamente relacionado en amenazar a otro por su estado
 físico o financiero. No amenaces o hagas daño a otro o a su familia en cualquier
-sitación. No le digas a otras personas que les harás daño o que los matarás. No
+situación. No le digas a otras personas que les harás daño o que los matarás. No
 doxees a otras personas. No compartas o amenaces con compartir la información
 personal de otro usuario - esto incluye, pero no está limitado a su dirección,
-número telefónico, email, número de seguridad social y fotos. Respeta el deseo
+número telefónico, email, RUT y fotos. Respeta el deseo
 de privacidad de otras personas.
 * Realizar cualquier actividad ilegal en Discord. Esto viene directamente desde
 nuestros [Términos del Servicio](https://discordapp.com/terms).
